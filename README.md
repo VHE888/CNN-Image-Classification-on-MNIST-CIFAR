@@ -11,14 +11,6 @@ This project builds a **convolutional neural network (CNN)** to classify MNIST d
 
 ---
 
-## Technologies Used
-- Python
-- TensorFlow / Keras  
-- NumPy, Pandas  
-- Matplotlib
-
----
-
 ## Dataset
 - **MNIST:** Handwritten digits (28×28 grayscale).  
 - **CIFAR-10:** Natural images (32×32 color).  
